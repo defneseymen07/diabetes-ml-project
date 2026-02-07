@@ -1,2 +1,21 @@
-# diabetes-ml-project
-Beginner machine learning project for diabetes risk prediction using Python.
+# Diabetes Risk Prediction
+
+A beginner machine learning project to predict type 2 diabetes risk using healthcare data.
+
+## Dataset
+Pima Indians Diabetes Dataset
+
+## Method
+- Data cleaning
+- Exploratory data analysis
+- Logistic Regression
+- Train-test split
+
+## Result
+Accuracy: ~75%
+
+## Tools
+Python, Pandas, Scikit-learn
+
+## Status
+Learning project (Beginner level)
